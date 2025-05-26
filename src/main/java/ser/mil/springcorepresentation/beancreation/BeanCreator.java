@@ -18,7 +18,7 @@ public class BeanCreator {
         return new MyComponent();
     }
     @Bean
-    public MyRepository myRepository(){
+    public MyRepository myRepository2(){
         return new MyRepository();
     }
     @Bean
